@@ -7,8 +7,7 @@ The study presents a solution for a hand identification system for air applicati
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
 
-  👨‍View Project [Touchless User Interface For Sketching Using Hand Gesture Recognition
-![image](https://user-images.githubusercontent.com/89124776/172970816-fc0a5344-7c00-4657-80c9-df68637e2fad.png)](https://ajitharunai.github.io/sticky-note-javascript/)
+  👨‍View Project [Touchless User Interface For Sketching Using Hand Gesture Recognition![image](https://medium.com/@ajitharunai/touchless-user-interface-for-sketching-using-hand-gesture-recognition-a11e463c1ce5)
 - 🔭 I’m currently working on [Web Desing தமிழ்](https://ajitharunai.github.io/Web-design-in-Tamil-Learning-Web-page/)
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning | React Js | Portfolio**
