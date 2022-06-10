@@ -16,7 +16,7 @@ The study presents a solution for a hand identification system for air applicati
 
 - 🤝 I’m looking for help with [I-Grow Association | AEC](https://arunai-cse.blogspot.com/)
 
-- 👨‍💻 All of my projects are available at [https://ajicreations.blogspot.com/](https://ajicreations.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://ajicreations.blogspot.com/](https://ajitharunai.netlify.app/)
 
 - 📝 I regularly write articles on [https://ajicreations.blogspot.com/](https://ajicreations.blogspot.com/)
 
